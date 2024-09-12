@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 diganthguyguy
 iugug
 ydhjyf
 jfyfy
 gdgf
+=======
+diganth  fghfg
+fghnfg
+fvgjghj
+vghj
+>>>>>>> branch-3
